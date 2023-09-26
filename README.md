@@ -27,12 +27,11 @@
 <table>
     <tr>
         <td >
-网名：我只是你的过客
+网名：我只是你的过客</center>
 
-个性签名：每个人都是每个人的过客
+个性签名：每个人都是每个人的过客</center>
 
-国籍：中华人民共和国 / 现居：中国湖北省武汉市
-        </center>
+国籍：中华人民共和国 / 现居：中国湖北省武汉市</center>
         </td>
     </tr>
 </table>
@@ -42,10 +41,9 @@
 <table>
     <tr>
         <td >
-MIT License
+MIT License</center>
 
-Copyright (©) 2008-2023 Powered by wlc743859910. Inc. All Rights Reserved.
-        </center>
+Copyright (©) 2008-2023 Powered by wlc743859910. Inc. All Rights Reserved.</center>
         </td>
     </tr>
 </table>
