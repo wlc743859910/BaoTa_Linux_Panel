@@ -24,6 +24,10 @@
 
 ---
 
+![Visitor Count](https://profile-counter.glitch.me/{BaoTaPanel}/count.svg)
+
+---
+
 <table>
     <tr>
         <td >
