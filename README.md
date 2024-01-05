@@ -1,8 +1,4 @@
-# BaoTa_Linux_Panel
-
----
-
-BaoTa_Linux_Panel 私人定制版
+# BaoTa_Linux_Panel 私人定制版
 
 ---
 
