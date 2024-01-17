@@ -3,28 +3,28 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTaPanel/img/gh-readme-header.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Linux_Panel/img/gh-readme-header.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTaPanel/img/template.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Linux_Panel/img/template.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTaPanel/img/1424469275.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Linux_Panel/img/1424469275.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTaPanel/img/fbCScVCQ.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Linux_Panel/img/fbCScVCQ.webp">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTaPanel/img/programmer.webp">
+  <img src="https://cdn.jsdelivr.net/gh/wlc743859910/BaoTa_Linux_Panel/img/programmer.webp">
 </p>
 
 ---
 
-![Visitor Count](https://profile-counter.glitch.me/{BaoTaPanel}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{BaoTa_Linux_Panel}/count.svg)
 
 ---
 
