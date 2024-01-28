@@ -2,6 +2,23 @@
 
 ---
 
+中国大陆以外服务器SSH终端执行以下命令
+curl https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh|bash
+
+中国大陆以外服务器SSH终端执行以下命令
+curl https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh|bash
+
+---
+
+| 仓库链接 | [BaoTa_Linux_Panel](https://github.com/wlc743859910/BaoTa_Linux_Panel) |
+| :------: | :----------------------------------------------------------: |
+| 加速链接 | [BaoTa_Linux_Panel.txt](https://raw.github.ink/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
+| 原始链接 | [BaoTa_Linux_Panel.txt](https://github.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
+| 原始链接 | [BaoTa_Linux_Panel.txt](https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
+| 加速链接 | [BaoTa_Linux_Panel.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
+
+---
+
 <p align="center">
   <img src="https://raw.github.ink/wlc743859910/BaoTa_Linux_Panel/master/img/1.webp">
 </p>
