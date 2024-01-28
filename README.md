@@ -2,11 +2,17 @@
 
 ---
 
-中国大陆以外服务器SSH终端执行以下命令
-curl https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh|bash
+## 中国大陆服务器SSH终端执行以下命令
 
-中国大陆以外服务器SSH终端执行以下命令
+```
+curl https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh|bash
+```
+
+## 中国大陆以外服务器SSH终端执行以下命令
+
+```
 curl https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh|bash
+```
 
 ---
 
