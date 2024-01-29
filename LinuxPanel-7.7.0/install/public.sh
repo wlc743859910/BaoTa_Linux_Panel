@@ -166,4 +166,3 @@ if [ ! $NODE_URL ];then
 	get_node_url
 	bt_check
 fi
-
