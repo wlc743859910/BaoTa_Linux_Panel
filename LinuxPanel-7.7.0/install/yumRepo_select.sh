@@ -57,3 +57,4 @@ centos_version=$(cat /etc/redhat-release | grep ' 7.' | grep -i centos)
 if [ "${centos_version}" ];then
 	get_Yum_Repo
 fi
+
