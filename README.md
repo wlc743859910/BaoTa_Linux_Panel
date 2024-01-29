@@ -10,7 +10,7 @@
 
 ---
 
-## CentOS/Ubuntu/Debian 安装LinuxPanel-7.7.0命令 独立运行环境（Python 3.7）
+## CentOS/Ubuntu/Debian 安装LinuxPanel-7.7.0 独立运行环境（Python 3.7）
 
 ### 中国大陆服务器SSH终端执行以下命令
 
@@ -26,7 +26,7 @@ curl https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/Lin
 
 ---
 
-## CentOS/Ubuntu/Debian 升降级LinuxPanel-7.7.0命令 独立运行环境（Python 3.7）
+## CentOS/Ubuntu/Debian 升降级LinuxPanel-7.7.0 独立运行环境（Python 3.7）
 
 ### 中国大陆服务器SSH终端执行以下命令
 
