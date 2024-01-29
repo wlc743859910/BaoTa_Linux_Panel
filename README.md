@@ -4,23 +4,40 @@
 
 | 仓库链接 | [BaoTa_Linux_Panel](https://github.com/wlc743859910/BaoTa_Linux_Panel) |
 | :------: | :----------------------------------------------------------: |
-| 加速链接 | [BaoTa_Linux_Panel.txt](https://raw.github.ink/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
-| 原始链接 | [BaoTa_Linux_Panel.txt](https://github.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
-| 原始链接 | [BaoTa_Linux_Panel.txt](https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
-| 加速链接 | [BaoTa_Linux_Panel.txt](https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh) |
+| 加速链接 | [BaoTa_Linux_Panel](https://github.ink/wlc743859910/BaoTa_Linux_Panel) |
+| 原始链接 | [BaoTa_Linux_Panel](https://github.com/wlc743859910/BaoTa_Linux_Panel) |
+| 加速链接 | [BaoTa_Linux_Panel](https://mirror.ghproxy.com/https://github.com/wlc743859910/BaoTa_Linux_Panel) |
 
 ---
 
-## 中国大陆服务器SSH终端执行以下命令
+## CentOS/Ubuntu/Debian 安装LinuxPanel-7.7.0命令 独立运行环境（Python 3.7）
+
+### 中国大陆服务器SSH终端执行以下命令
 
 ```
-curl https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh|bash
+curl https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/install_panel.sh|bash
 ```
 
-## 中国大陆以外服务器SSH终端执行以下命令
+### 中国大陆以外服务器SSH终端执行以下命令
 
 ```
-curl https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update6.sh|bash
+curl https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/install_panel.sh|bash
+```
+
+---
+
+## CentOS/Ubuntu/Debian 升降级LinuxPanel-7.7.0命令 独立运行环境（Python 3.7）
+
+### 中国大陆服务器SSH终端执行以下命令
+
+```
+curl https://mirror.ghproxy.com/https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update_panel.sh|bash
+```
+
+### 中国大陆以外服务器SSH终端执行以下命令
+
+```
+curl https://raw.githubusercontent.com/wlc743859910/BaoTa_Linux_Panel/master/LinuxPanel-7.7.0/update_panel.sh|bash
 ```
 
 ---
